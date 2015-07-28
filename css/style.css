@@ -1,0 +1,39 @@
+h1 {
+  color: #FFA3C2; 
+}
+
+h3 {color: #99CCFF;
+}
+
+h4 {
+  color:#FF8585;
+}
+
+.title-section{
+  text-align: center;
+}
+
+.title-section img {
+  border-style: solid; 
+  border-color: #FFE0C2;
+  border-width: 10px;
+}
+
+p {
+  font-family: Futura;
+  font-size: 18px;
+}
+
+
+body {
+  background-color:#E6FFFF;
+  font-family: Futura;
+  text-align: center;
+  
+}
+
+.center {
+  text-align: center; 
+  list-style-position:inside;
+}
+
